@@ -1,2 +1,2 @@
-# Primate Solutions
- Single Page feito com ajuda de um professor da minha faculdade, editando um repositorio encontrado aqui
+# siteScriptcom
+Site para agencia digital feito apartir da edição de varios templetes prontos
