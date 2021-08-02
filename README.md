@@ -1,1 +1,1 @@
-Site para agencia digital feito apartir da edição de varios templetes prontos
+Site para agencia digital feito a partir da edição de alguns templates
